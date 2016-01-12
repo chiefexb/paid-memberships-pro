@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: jason@strangerstudios.com\n"
 "POT-Creation-Date: 2015-11-07 16:42-0500\n"
-"PO-Revision-Date: 2016-01-12 18:18+0300\n"
+"PO-Revision-Date: 2016-01-12 20:40+0300\n"
 "Last-Translator: chief3 <alex.pricker@gmail.com>\n"
 "Language-Team: Alex Pricker website: www.alex-pricker.com\n"
 "Language: ru\n"
@@ -120,7 +120,6 @@ msgstr "Улучшить Лицензию"
 
 #: adminpages/addons.php:208 adminpages/addons.php:208
 #: adminpages/addons.php:224
-#, fuzzy
 msgid "Deactivate"
 msgstr "Деактивировать"
 
@@ -412,7 +411,7 @@ msgstr ""
 #: adminpages/advancedsettings.php:112 adminpages/advancedsettings.php:103
 #: adminpages/advancedsettings.php:110 adminpages/advancedsettings.php:112
 msgid "Message for RSS Feed"
-msgstr ""
+msgstr "Сообщения для RSS ленты"
 
 #: adminpages/advancedsettings.php:116 adminpages/advancedsettings.php:107
 #: adminpages/advancedsettings.php:114 adminpages/advancedsettings.php:116
@@ -450,7 +449,7 @@ msgstr ""
 
 #: adminpages/advancedsettings.php:144 adminpages/advancedsettings.php:144
 msgid "Hide Ads From Members?"
-msgstr ""
+msgstr "Не показывать рекламу членам клуба?"
 
 #: adminpages/advancedsettings.php:148 adminpages/advancedsettings.php:207
 #: adminpages/advancedsettings.php:219 adminpages/membershiplevels.php:667
@@ -480,17 +479,17 @@ msgstr "Нет"
 #: adminpages/advancedsettings.php:149 adminpages/advancedsettings.php:129
 #: adminpages/advancedsettings.php:136 adminpages/advancedsettings.php:149
 msgid "Hide Ads From All Members"
-msgstr ""
+msgstr "Не показывать рекламу всем членам клуба?"
 
 #: adminpages/advancedsettings.php:150 adminpages/advancedsettings.php:130
 #: adminpages/advancedsettings.php:137 adminpages/advancedsettings.php:150
 msgid "Hide Ads From Certain Members"
-msgstr ""
+msgstr "Не показывать рекламу некоторым членам клуба?"
 
 #: adminpages/advancedsettings.php:157 adminpages/advancedsettings.php:137
 #: adminpages/advancedsettings.php:144 adminpages/advancedsettings.php:157
 msgid "Ads from the following plugins will be automatically turned off"
-msgstr ""
+msgstr "Реклама от следующих плагинов будет автоматически выключена"
 
 #: adminpages/advancedsettings.php:158 adminpages/advancedsettings.php:138
 #: adminpages/advancedsettings.php:145 adminpages/advancedsettings.php:158
@@ -500,12 +499,12 @@ msgstr ""
 #: adminpages/advancedsettings.php:169 adminpages/advancedsettings.php:149
 #: adminpages/advancedsettings.php:156 adminpages/advancedsettings.php:169
 msgid "Choose Levels to Hide Ads From"
-msgstr ""
+msgstr "Выберите уровни доступа чтобы убрать рекламу для них"
 
 #: adminpages/advancedsettings.php:203 adminpages/advancedsettings.php:183
 #: adminpages/advancedsettings.php:190 adminpages/advancedsettings.php:203
 msgid "Redirect all traffic from registration page to /susbcription/?"
-msgstr ""
+msgstr "Перенаправить весь трафик с регистрационной страницы на /susbcription/?"
 
 #: adminpages/advancedsettings.php:203 adminpages/advancedsettings.php:183
 #: adminpages/advancedsettings.php:190 adminpages/advancedsettings.php:203
@@ -531,32 +530,32 @@ msgstr ""
 #: includes/profile.php:106 includes/profile.php:111 includes/profile.php:122
 #: includes/profile.php:124
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #: adminpages/advancedsettings.php:215 adminpages/advancedsettings.php:195
 #: adminpages/advancedsettings.php:202 adminpages/advancedsettings.php:215
 msgid "Use reCAPTCHA?"
-msgstr ""
+msgstr "Использовать reCAPTCHу?"
 
 #: adminpages/advancedsettings.php:220 adminpages/advancedsettings.php:200
 #: adminpages/advancedsettings.php:207 adminpages/advancedsettings.php:220
 msgid "Yes - Free memberships only."
-msgstr ""
+msgstr "Да - Только для без оплатных членов."
 
 #: adminpages/advancedsettings.php:221 adminpages/advancedsettings.php:201
 #: adminpages/advancedsettings.php:208 adminpages/advancedsettings.php:221
 msgid "Yes - All memberships."
-msgstr ""
+msgstr "Да -Всем членам."
 
 #: adminpages/advancedsettings.php:223 adminpages/advancedsettings.php:203
 #: adminpages/advancedsettings.php:210 adminpages/advancedsettings.php:223
 msgid "A free reCAPTCHA key is required."
-msgstr ""
+msgstr "Требуется безоплатный ключ  reCAPTCHA ."
 
 #: adminpages/advancedsettings.php:223 adminpages/advancedsettings.php:203
 #: adminpages/advancedsettings.php:210 adminpages/advancedsettings.php:223
 msgid "Click here to signup for reCAPTCHA"
-msgstr ""
+msgstr "Кликните сюда чтобы зарегироваться в reCAPTCHA"
 
 #: adminpages/advancedsettings.php:229 adminpages/advancedsettings.php:209
 #: adminpages/advancedsettings.php:216 adminpages/advancedsettings.php:229
@@ -746,7 +745,7 @@ msgstr ""
 #: adminpages/membershiplevels.php:513 adminpages/membershiplevels.php:515
 #: adminpages/membershiplevels.php:542 pages/levels.php:14
 msgid "Initial Payment"
-msgstr ""
+msgstr "Стартовый платеж"
 
 #: adminpages/discountcodes.php:442 adminpages/membershiplevels.php:352
 #: adminpages/discountcodes.php:428 adminpages/discountcodes.php:431
@@ -773,7 +772,7 @@ msgstr "Рекуррентная подписка"
 #: adminpages/membershiplevels.php:355 adminpages/membershiplevels.php:357
 #: adminpages/membershiplevels.php:358
 msgid "Check if this level has a recurring subscription payment."
-msgstr ""
+msgstr "Проверить если это уровень имеет рекурентные платежи."
 
 #: adminpages/discountcodes.php:452 adminpages/membershiplevels.php:361
 #: adminpages/discountcodes.php:440 adminpages/discountcodes.php:451
@@ -1174,22 +1173,22 @@ msgstr ""
 #: adminpages/membershiplevels.php:120 adminpages/membershiplevels.php:118
 #: adminpages/membershiplevels.php:120
 msgid "Membership level updated successfully."
-msgstr ""
+msgstr "Уровень доступа успешно обновлен."
 
 #: adminpages/membershiplevels.php:126 adminpages/membershiplevels.php:124
 #: adminpages/membershiplevels.php:126
 msgid "Error updating membership level."
-msgstr ""
+msgstr "Ошибка при обновления уровня доступа."
 
 #: adminpages/membershiplevels.php:143 adminpages/membershiplevels.php:141
 #: adminpages/membershiplevels.php:143
 msgid "Membership level added successfully."
-msgstr ""
+msgstr "Уровень достуупа успешно добавлен."
 
 #: adminpages/membershiplevels.php:148 adminpages/membershiplevels.php:146
 #: adminpages/membershiplevels.php:148
 msgid "Error adding membership level."
-msgstr ""
+msgstr "Ошибка при добавлении уровня доступа."
 
 #: adminpages/membershiplevels.php:183 adminpages/membershiplevels.php:179
 #: adminpages/membershiplevels.php:181 adminpages/membershiplevels.php:183
@@ -1208,24 +1207,24 @@ msgstr ""
 #: adminpages/membershiplevels.php:200 adminpages/membershiplevels.php:196
 #: adminpages/membershiplevels.php:198 adminpages/membershiplevels.php:200
 msgid "Membership level deleted successfully."
-msgstr ""
+msgstr "Уровень доступа успешно удален."
 
 #: adminpages/membershiplevels.php:205 adminpages/membershiplevels.php:211
 #: adminpages/membershiplevels.php:201 adminpages/membershiplevels.php:203
 #: adminpages/membershiplevels.php:205 adminpages/membershiplevels.php:207
 #: adminpages/membershiplevels.php:209 adminpages/membershiplevels.php:211
 msgid "Error deleting membership level."
-msgstr ""
+msgstr "Ошибка при удалении уровня доступа."
 
 #: adminpages/membershiplevels.php:226 adminpages/membershiplevels.php:222
 #: adminpages/membershiplevels.php:224 adminpages/membershiplevels.php:226
 msgid "Edit Membership Level"
-msgstr ""
+msgstr "Редактировать уровень доступа"
 
 #: adminpages/membershiplevels.php:228 adminpages/membershiplevels.php:224
 #: adminpages/membershiplevels.php:226 adminpages/membershiplevels.php:228
 msgid "Add New Membership Level"
-msgstr ""
+msgstr "Добавить уровень доступа"
 
 #: adminpages/membershiplevels.php:295 adminpages/membershiplevels.php:637
 #: adminpages/reports/login.php:160 adminpages/membershiplevels.php:291
@@ -1236,12 +1235,12 @@ msgstr ""
 #: adminpages/membershiplevels.php:637 adminpages/membershiplevels.php:638
 #: adminpages/reports/login.php:142 adminpages/reports/login.php:144
 msgid "Name"
-msgstr ""
+msgstr "Название"
 
 #: adminpages/membershiplevels.php:318 adminpages/membershiplevels.php:314
 #: adminpages/membershiplevels.php:316 adminpages/membershiplevels.php:318
 msgid "Confirmation Message"
-msgstr ""
+msgstr "Страница подтверждения"
 
 #: adminpages/membershiplevels.php:337 adminpages/membershiplevels.php:638
 #: adminpages/membershiplevels.php:333 adminpages/membershiplevels.php:335
@@ -1268,7 +1267,7 @@ msgstr ""
 msgid ""
 "Stripe integration currently only supports billing periods of \"Week\", "
 "\"Month\" or \"Year\"."
-msgstr ""
+msgstr "Stripe поддерживает только периоды неделя, месяц, год. "
 
 #: adminpages/membershiplevels.php:389 adminpages/membershiplevels.php:366
 #: adminpages/membershiplevels.php:368 adminpages/membershiplevels.php:387
@@ -1276,7 +1275,7 @@ msgstr ""
 msgid ""
 "Braintree integration currently only supports billing periods of \"Month\" "
 "or \"Year\"."
-msgstr ""
+msgstr "Braintree поддерживает только  месяц или год. "
 
 #: adminpages/membershiplevels.php:391 adminpages/membershiplevels.php:368
 #: adminpages/membershiplevels.php:370 adminpages/membershiplevels.php:389
