@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: jason@strangerstudios.com\n"
 "POT-Creation-Date: 2015-11-07 16:42-0500\n"
-"PO-Revision-Date: 2016-01-12 20:51+0300\n"
+"PO-Revision-Date: 2016-01-12 21:03+0300\n"
 "Last-Translator: chief3 <alex.pricker@gmail.com>\n"
 "Language-Team: Alex Pricker website: www.alex-pricker.com\n"
 "Language: ru\n"
@@ -1914,7 +1914,7 @@ msgstr ""
 #: includes/adminpages.php:156 includes/adminpages.php:163
 #: includes/adminpages.php:167
 msgid "Orders"
-msgstr ""
+msgstr "Заказы"
 
 #: adminpages/orders.php:707 adminpages/orders.php:521
 #: adminpages/orders.php:571
@@ -1957,13 +1957,13 @@ msgstr ""
 #: adminpages/orders.php:535 adminpages/orders.php:538
 #: adminpages/orders.php:777 adminpages/orders.php:780
 msgid "Search Orders"
-msgstr ""
+msgstr "Поиск заказов"
 
 #: adminpages/orders.php:959 adminpages/orders.php:590
 #: adminpages/orders.php:893 adminpages/orders.php:903
 #, php-format
 msgid "%d orders found."
-msgstr ""
+msgstr "%d заказов найде."
 
 #: adminpages/orders.php:968 adminpages/reports/login.php:159
 #: classes/gateways/class.pmprogateway_payflowpro.php:116
@@ -2138,7 +2138,7 @@ msgstr ""
 #: adminpages/pagesettings.php:241 adminpages/pagesettings.php:244
 #: adminpages/pagesettings.php:274
 msgid "edit page"
-msgstr ""
+msgstr "редакировать"
 
 #: adminpages/pagesettings.php:122 adminpages/pagesettings.php:140
 #: adminpages/pagesettings.php:158 adminpages/pagesettings.php:177
@@ -2159,7 +2159,7 @@ msgstr ""
 #: adminpages/pagesettings.php:235 adminpages/pagesettings.php:243
 #: adminpages/pagesettings.php:246 adminpages/pagesettings.php:277
 msgid "view page"
-msgstr ""
+msgstr "просмотреть"
 
 #: adminpages/pagesettings.php:125 adminpages/pagesettings.php:143
 #: adminpages/pagesettings.php:161 adminpages/pagesettings.php:180
@@ -2626,7 +2626,7 @@ msgstr ""
 #: pages/checkout.php:603 pages/confirmation.php:51 pages/confirmation.php:52
 #: pages/invoice.php:32 pages/invoice.php:33
 msgid "Discount Code"
-msgstr ""
+msgstr "Купоны скидки"
 
 #: classes/class.pmproemail.php:265 classes/class.pmproemail.php:358
 #: classes/class.pmproemail.php:663 classes/class.pmproemail.php:241
@@ -3767,14 +3767,14 @@ msgstr ""
 #: includes/adminpages.php:54 includes/adminpages.php:114
 #: includes/adminpages.php:121 includes/adminpages.php:125
 msgid "Payment Settings"
-msgstr ""
+msgstr "Прием платежей"
 
 #: includes/adminpages.php:54 includes/adminpages.php:160
 #: includes/adminpages.php:16 includes/adminpages.php:54
 #: includes/adminpages.php:79 includes/adminpages.php:149
 #: includes/adminpages.php:156 includes/adminpages.php:160
 msgid "Reports"
-msgstr ""
+msgstr "Отчеты"
 
 #: includes/adminpages.php:56 includes/adminpages.php:174
 #: includes/adminpages.php:18 includes/adminpages.php:56
