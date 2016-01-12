@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: jason@strangerstudios.com\n"
 "POT-Creation-Date: 2015-11-07 16:42-0500\n"
-"PO-Revision-Date: 2016-01-12 20:40+0300\n"
+"PO-Revision-Date: 2016-01-12 20:51+0300\n"
 "Last-Translator: chief3 <alex.pricker@gmail.com>\n"
 "Language-Team: Alex Pricker website: www.alex-pricker.com\n"
 "Language: ru\n"
@@ -657,7 +657,7 @@ msgstr ""
 #: adminpages/discountcodes.php:529 adminpages/discountcodes.php:557
 #: adminpages/discountcodes.php:558
 msgid "Add New Discount Code"
-msgstr ""
+msgstr "Добавить скидку"
 
 #: adminpages/discountcodes.php:310 adminpages/discountcodes.php:586
 #: adminpages/membershiplevels.php:288 adminpages/membershiplevels.php:636
@@ -1419,7 +1419,7 @@ msgstr ""
 #: adminpages/membershiplevels.php:569 adminpages/membershiplevels.php:618
 #: adminpages/membershiplevels.php:619
 msgid "Add New Level"
-msgstr ""
+msgstr "Добавить уровень"
 
 #: adminpages/membershiplevels.php:621 adminpages/membershiplevels.php:624
 #: adminpages/membershiplevels.php:493 adminpages/membershiplevels.php:496
@@ -1919,7 +1919,7 @@ msgstr ""
 #: adminpages/orders.php:707 adminpages/orders.php:521
 #: adminpages/orders.php:571
 msgid "Add New Order"
-msgstr ""
+msgstr "Добавить новый заказ"
 
 #: adminpages/orders.php:742 adminpages/orders.php:606
 msgid "Within a Date Range"
@@ -1988,7 +1988,7 @@ msgstr ""
 #: pages/confirmation.php:103 pages/confirmation.php:105 pages/invoice.php:27
 #: pages/invoice.php:28 pages/invoice.php:49 pages/invoice.php:51
 msgid "Membership Level"
-msgstr ""
+msgstr "Уровень доступа"
 
 #: adminpages/orders.php:972 adminpages/orders.php:1040
 #: adminpages/orders.php:603 adminpages/orders.php:651
@@ -1996,23 +1996,23 @@ msgstr ""
 #: adminpages/orders.php:954 adminpages/orders.php:972
 #: adminpages/orders.php:982
 msgid "Payment"
-msgstr ""
+msgstr "Платеж"
 
 #: adminpages/orders.php:974 adminpages/orders.php:605
 #: adminpages/orders.php:908 adminpages/orders.php:918
 msgid "Transaction IDs"
-msgstr ""
+msgstr "ID транзакции"
 
 #: adminpages/orders.php:1001 adminpages/orders.php:630
 #: adminpages/orders.php:933 adminpages/orders.php:943
 msgid "deleted"
-msgstr ""
+msgstr "удалено"
 
 #: adminpages/orders.php:1042 adminpages/orders.php:653
 #: adminpages/orders.php:956 adminpages/orders.php:974
 #: adminpages/orders.php:984
 msgid "Subscription"
-msgstr ""
+msgstr "Подписка"
 
 #: adminpages/orders.php:1056 adminpages/orders.php:664
 #: adminpages/orders.php:967 adminpages/orders.php:985
@@ -2025,7 +2025,7 @@ msgstr ""
 
 #: adminpages/orders.php:1059
 msgid "print"
-msgstr ""
+msgstr "печать"
 
 #: adminpages/orders.php:1062
 msgid "email"
@@ -2035,16 +2035,16 @@ msgstr ""
 #: adminpages/orders.php:977 adminpages/orders.php:995
 #: adminpages/orders.php:1005 adminpages/orders.php:1008
 msgid "No orders found."
-msgstr ""
+msgstr "Не найдено заказов."
 
 #: adminpages/pagesettings.php:54 adminpages/pagesettings.php:54
 msgid "Your page settings have been updated."
-msgstr ""
+msgstr "Опции страницы сохранены."
 
 #: adminpages/pagesettings.php:64 adminpages/pagesettings.php:51
 #: adminpages/pagesettings.php:64
 msgid "Membership Account"
-msgstr ""
+msgstr "Аккаунт члена клуба"
 
 #: adminpages/pagesettings.php:65 adminpages/pagesettings.php:54
 #: adminpages/pagesettings.php:65
